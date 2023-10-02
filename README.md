@@ -57,7 +57,6 @@ I'm passionate about collaborating with like-minded professionals on challenging
 ## 📚 Current Learning:
 - 🌐 Exploring the vast world of full-stack development
 - 📱 Building responsive and scalable applications
-- 🤖 Diving deeper into machine learning and artificial intelligence
 
 ## 📫 How to reach me:
 Feel free to get in touch with me on [LinkedIn](https://linkedin.com/in/menachem-drelich/).
