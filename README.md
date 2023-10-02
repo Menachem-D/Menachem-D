@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/menachem-d/menachem-d/output/snake.svg" alt="Snake animation" />
+
 # 👋 Welcome to my profile! I'm Menachem
 
 I'm a dedicated full-stack developer with a passion for creative problem-solving and a strong focus on back-end development using object-oriented programming (OOP). I have expertise in working with relational databases.
