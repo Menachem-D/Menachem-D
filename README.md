@@ -2,8 +2,6 @@
 
 I'm a dedicated full-stack developer with a strong focus on back-end development using object-oriented programming (OOP) and relational databases. I thrive on delivering efficient solutions to complex challenges and am always expanding my skill set to stay ahead in technology trends.
 
-![Menachem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Menachem-D&show_icons=true&theme=transparent)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Menachem-D&layout=compact)
 
 # 🚀 About Me
