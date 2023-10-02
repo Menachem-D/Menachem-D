@@ -1,20 +1,16 @@
 # 👋 Welcome to my profile! I'm Menachem
 
-I'm a dedicated full-stack developer with a passion for creative problem-solving and a strong focus on back-end development using object-oriented programming (OOP). I have expertise in working with relational databases.
+I'm a dedicated full-stack developer with a strong focus on back-end development using object-oriented programming (OOP) and relational databases. I thrive on delivering efficient solutions to complex challenges and am always expanding my skill set to stay ahead in technology trends.
+
+![Menachem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Menachem-D&show_icons=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Menachem-D&layout=compact)
 
-# 🚀 Thriving on Efficiency
-I thrive on delivering efficient solutions to complex challenges and am constantly expanding my skill set to stay at the forefront of technology trends.
-
-# ⚡️ Beyond Technical Skills
-Beyond my core technical skills, I possess a solid understanding of the Arduino platform, enabling me to explore the exciting intersection of hardware and software integration. This unique blend of knowledge allows me to approach projects from a holistic perspective, delivering innovative solutions that bridge the digital and physical realms.
-
-# 🌱 Continuous Learning
-Currently, I'm actively broadening my skill set by diving into front-end technologies, with the goal of becoming a well-rounded full-stack developer. I'm on a continuous learning journey, always eager to stay ahead in this rapidly evolving field.
+# 🚀 About Me
+Beyond technical skills, my understanding of the Arduino platform enables exploration at the intersection of hardware and software integration. This blend of knowledge allows a holistic approach to projects, delivering innovative solutions that bridge digital and physical realms. I'm actively diving into front-end technologies, aiming to become a well-rounded full-stack developer in this continuously evolving field.
 
 # 💡 Let's Collaborate!
-I'm passionate about collaborating with like-minded professionals on challenging projects. If you're looking for a teammate who can bring creative problem-solving skills to the table and transform innovative ideas into reality, let's connect! I'm excited to explore new opportunities and contribute to projects that make a meaningful impact.
+Passionate about collaboration and eager to tackle challenging projects, I'm ready to transform innovative ideas into reality. If you're seeking a teammate with creative problem-solving skills, let's connect and make a meaningful impact together!
 
 # 🌐 Connect with me:
 <p align="left">
@@ -22,7 +18,6 @@ I'm passionate about collaborating with like-minded professionals on challenging
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="menachem-drelich/" height="30" width="40" />
 </a>
 </p>
-
 # 🛠️ Languages and Tools:
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
